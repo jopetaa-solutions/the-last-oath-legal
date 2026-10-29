@@ -14,7 +14,7 @@ This policy explains what data the game **The Last Oath** (Google Play package `
 why, and what you can do about it.
 
 ### Who is responsible
-Jopetaa Solutions develops the game and is responsible for the data described here. Contact: [jopetaa.solutions@gmail.com](mailto:jopetaa.solutions@gmail.com).
+Carlos Tomás Tadeo Reyes Rojas (Jopetaa Solutions) develops the game and is responsible for the data described here. Contact: [jopetaa.solutions@gmail.com](mailto:jopetaa.solutions@gmail.com).
 
 ### The short version
 - The game has no accounts, no ads and no advertising ID.
@@ -90,7 +90,7 @@ Statistics are sent over encrypted connections (HTTPS). Data on your phone is ke
 If this policy changes, we will publish the new version on this page with a new effective date.
 
 ### Contact
-Jopetaa Solutions — [jopetaa.solutions@gmail.com](mailto:jopetaa.solutions@gmail.com)
+Carlos Tomás Tadeo Reyes Rojas (Jopetaa Solutions) — [jopetaa.solutions@gmail.com](mailto:jopetaa.solutions@gmail.com)
 
 ---
 
@@ -104,7 +104,7 @@ Esta política explica qué datos trata el juego **The Last Oath** (paquete de G
 para qué y qué puedes hacer al respecto.
 
 ### Responsable
-Jopetaa Solutions desarrolla el juego y es responsable de los datos que se describen aquí. Contacto:
+Carlos Tomás Tadeo Reyes Rojas (Jopetaa Solutions) desarrolla el juego y es responsable de los datos que se describen aquí. Contacto:
 [jopetaa.solutions@gmail.com](mailto:jopetaa.solutions@gmail.com).
 
 ### En resumen
@@ -185,4 +185,4 @@ privado del juego.
 Si esta política cambia, publicaremos la nueva versión en esta página con una nueva fecha de entrada en vigor.
 
 ### Contacto
-Jopetaa Solutions — [jopetaa.solutions@gmail.com](mailto:jopetaa.solutions@gmail.com)
+Carlos Tomás Tadeo Reyes Rojas (Jopetaa Solutions) — [jopetaa.solutions@gmail.com](mailto:jopetaa.solutions@gmail.com)
